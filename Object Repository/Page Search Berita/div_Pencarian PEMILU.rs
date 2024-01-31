@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pencarian PEMILU</name>
+   <tag></tag>
+   <elementGuidId>c7c9d060-ac44-4600-9899-4a6edba24dae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.title__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c87e6334-e776-4fc2-94cd-772215f1318c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title__content</value>
+      <webElementGuid>cbf162ee-6649-4dc1-9ebd-70140855f974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pencarian &quot;PEMILU&quot;</value>
+      <webElementGuid>0a370c67-2d08-443c-b2ff-67fe5d3e4f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js csstransitions&quot;]/body[@class=&quot;theme--search&quot;]/div[@class=&quot;wrap&quot;]/div[@class=&quot;container clearfix&quot;]/div[@class=&quot;row mt2 col-offset-fluid clearfix&quot;]/div[@class=&quot;col-bs10-7&quot;]/div[@class=&quot;title clearfix&quot;]/div[@class=&quot;title__content&quot;]</value>
+      <webElementGuid>cf9b3436-cfed-48fa-8049-3980ecba5c2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div</value>
+      <webElementGuid>02176caf-2a67-4fda-91c7-44e8d9a8cf7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pencarian &quot;PEMILU&quot;' or . = 'Pencarian &quot;PEMILU&quot;')]</value>
+      <webElementGuid>0c6133ec-1aaa-4658-b37a-bb15e0295ab4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Video Viral Gibran Dinyanyikan Lagu Anak Sekecil Itu Berkelahi dengan Mahfud di Bali, TKN Buka Suara</name>
+   <tag></tag>
+   <elementGuidId>1384a7a1-3db3-4f9d-97a3-122716a9b1b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.read__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>5b52da00-42e6-4b9f-983e-82de416f49b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>read__title</value>
+      <webElementGuid>e34cf46f-eb6a-417d-a34f-9aa410175f5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Video Viral Gibran Dinyanyikan Lagu &quot;Anak Sekecil Itu Berkelahi dengan Mahfud&quot; di Bali, TKN Buka Suara</value>
+      <webElementGuid>29b97d4c-5565-4983-bfb6-fa0bfe777878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js csstransitions&quot;]/body[@class=&quot;theme--news page--read&quot;]/div[@class=&quot;wrap&quot;]/div[@class=&quot;container clearfix&quot;]/div[@class=&quot;row mt2 col-offset-fluid clearfix&quot;]/div[@class=&quot;col-bs10-10&quot;]/h1[@class=&quot;read__title&quot;]</value>
+      <webElementGuid>0f29a00c-d959-44e1-8332-03ae21ee6d98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>b8a6df81-d75c-477a-a513-d41688447263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Video Viral Gibran Dinyanyikan Lagu &quot;Anak Sekecil Itu Berkelahi dengan Mahfud&quot; di Bali, TKN Buka Suara' or . = 'Video Viral Gibran Dinyanyikan Lagu &quot;Anak Sekecil Itu Berkelahi dengan Mahfud&quot; di Bali, TKN Buka Suara')]</value>
+      <webElementGuid>6fef4af3-4d1c-42ea-8890-1325e528e7c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
