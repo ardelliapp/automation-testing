@@ -21,9 +21,9 @@ WebUI.comment('Login to Kompas')
 
 WebUI.openBrowser('https://kompas.com/')
 
-WebUI.click(findTestObject('Page_Berita Terkini Hari Ini, Kabar Akurat Terpercaya - Kompas.com/i_Koin_sso__icon__login_top'))
+WebUI.click(findTestObject('Page Search Berita/i_Koin_sso__icon__login_top'))
 
-WebUI.click(findTestObject('Page_Berita Terkini Hari Ini, Kabar Akurat Terpercaya - Kompas.com/span_Login'))
+WebUI.click(findTestObject('Page Search Berita/span_Login'))
 
 WebUI.comment('Directing to Login Page')
 

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if User Cant Login with Invalid Email Format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24902984-e2e6-470b-878d-244b2cee45d0</testCaseGuid>
+</TestCaseEntity>

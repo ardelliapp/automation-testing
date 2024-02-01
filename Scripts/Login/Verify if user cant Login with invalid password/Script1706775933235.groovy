@@ -21,23 +21,23 @@ WebUI.comment('Login to Kompas')
 
 WebUI.openBrowser('https://kompas.com/')
 
-WebUI.click(findTestObject('Page_Berita Terkini Hari Ini, Kabar Akurat Terpercaya - Kompas.com/i_Koin_sso__icon__login_top'))
+WebUI.click(findTestObject('Page Search Berita/i_Koin_sso__icon__login_top'))
 
-WebUI.click(findTestObject('Page_Berita Terkini Hari Ini, Kabar Akurat Terpercaya - Kompas.com/span_Login'))
+WebUI.click(findTestObject('Page Search Berita/span_Login'))
 
 WebUI.comment('Directing to Login Page')
 
 WebUI.comment('Input Email and Password')
 
-WebUI.setText(findTestObject('Page_Login - KG Media ID/input_KG Media ID_email'), 'babir11023@gosarlar.com')
+WebUI.setText(findTestObject('Page_Login - KG Media ID/input_KG Media ID_email'), 'testing@aj.com')
 
-WebUI.setText(findTestObject('Page_Login - KG Media ID/input_Password_password'), 'testing123')
+WebUI.setText(findTestObject('Page_Login - KG Media ID/input_Password_password'), 'halo123')
 
 WebUI.delay(4)
 
 WebUI.click(findTestObject('Page_Login - KG Media ID/input_Password_button -primary'))
 
-WebUI.verifyElementPresent(findTestObject('Page_Berita Terkini Hari Ini, Kabar Akurat Terpercaya - Kompas.com/img_Otomatis_anni26-img'), 
+WebUI.verifyElementPresent(findTestObject('Page_Login - KG Media ID/div_KG Media ID atau password yang kamu masukkan salah'), 
     0)
 
 WebUI.closeBrowser()
