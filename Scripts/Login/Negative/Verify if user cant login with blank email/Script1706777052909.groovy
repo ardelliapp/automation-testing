@@ -29,17 +29,15 @@ WebUI.comment('Directing to Login Page')
 
 WebUI.comment('Input Email and Password')
 
-WebUI.setText(findTestObject('Page_Login - KG Media ID/input_KG Media ID_email'), 'testing')
+WebUI.setText(findTestObject('Page_Login - KG Media ID/input_KG Media ID_email'), '')
 
-WebUI.setText(findTestObject('Page_Login - KG Media ID/input_Password_password'), 'halo123')
+WebUI.setText(findTestObject('Page_Login - KG Media ID/input_Password_password'), 'halo123123')
 
-WebUI.delay(4)
+WebUI.delay(3)
 
 WebUI.click(findTestObject('Page_Login - KG Media ID/input_Password_button -primary'))
 
-WebUI.delay(5)
-
-WebUI.verifyTextPresent('Please include an \'@\'', false)
+WebUI.verifyElementPresent(findTestObject('Page_Login - KG Media ID/Email Harus Diisi'), 0)
 
 WebUI.closeBrowser()
 
