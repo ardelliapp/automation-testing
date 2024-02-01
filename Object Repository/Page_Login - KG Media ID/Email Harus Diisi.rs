@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Email Harus Diisi</name>
+   <tag></tag>
+   <elementGuidId>3788bf59-2195-43fd-912c-ca46b02c57b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d813ffa1-8be5-4aa8-919c-d42e987687be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-error</value>
+      <webElementGuid>36a8c51d-f3d6-4a62-a647-e666842cd842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KG Media ID harus diisi</value>
+      <webElementGuid>5d537b1a-f5f9-4cc4-a67f-9d3e4dfdd953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;block-middle&quot;]/div[@class=&quot;form-main&quot;]/form[1]/div[@class=&quot;form-row form-input&quot;]/div[@class=&quot;form-error&quot;]</value>
+      <webElementGuid>b3a0de64-0b76-4f2b-a53a-ad9677c44ae7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>4b4a4d02-8a77-49d0-abc8-338ddc4592d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'KG Media ID harus diisi' or . = 'KG Media ID harus diisi')]</value>
+      <webElementGuid>1096ee34-85b0-4706-a93c-4cbaa7d38926</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
